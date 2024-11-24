@@ -1,0 +1,23 @@
+{
+  "name": "asn4-mongo-jisna",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "start:app1": "node app1.js",
+    "start:app2": "node app2.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-handlebars": "^8.0.1",
+    "express-validator": "^6.14.2",
+    "hbs": "^4.2.0",
+    "mongoose": "^6.7.2"
+  }
+}
+

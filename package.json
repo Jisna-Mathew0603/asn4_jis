@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "node app.js",
+    "start:app1": "node app1.js",
+    "start:app2": "node app2.js"
+  },
+  "dependencies": {
+    "mongodb": "^6.10.0"
+  }
+}
